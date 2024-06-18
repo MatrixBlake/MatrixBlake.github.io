@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kunze Wang, who is currently a machine learning engineer and applied scientist in [Rokt](https://www.rokt.com/), working on computational computing and recommendation system.
+My name is Kunze Wang, and I'm currently a machine learning engineer and applied scientist in [Rokt](https://www.rokt.com/), working on computational computing and recommendation system.
 
 Before joining Rokt, I finished my PhD degree at The University of Sydney, supervised by [Dr.Caren Han](https://drcarenhan.github.io/) and Dr.Josiah Poon. During my period in USYD, I visited The University of Hong Kong and The University of Western Australia and interned in Meituan Company.
 
