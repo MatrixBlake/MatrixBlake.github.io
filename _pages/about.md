@@ -1,29 +1,38 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Kunze Wang, and I am currently a machine learning engineer and applied scientist at [Rokt](https://www.rokt.com/), where I work on computational computing and recommendation systems.
+This is Kunze Wang, and I am currently a machine learning engineer and applied scientist at [Rokt](https://www.rokt.com/), where I work on computational computing and recommendation systems.
 
 Before joining Rokt, I completed my PhD at The University of Sydney, supervised by [Dr.Caren Han](https://drcarenhan.github.io/) and Dr. Josiah Poon. During my time at USYD, I visited The University of Hong Kong and The University of Western Australia, and interned at Meituan Company.
 
 Prior to that, I earned my Master of Information Technology and Information Technology Management at USYD. I completed my bachelor's degree at Nanjing University and graduated with honors.
 
-My research interests include graph neural networks for text classification, knowledge graphs, abusive language detection, and, like everyone else in academia recently, large language models :)
+My research interests include graph neural networks for text classification, knowledge graphs, abusive language detection, and, like everyone else recently, large language models :)
 
 Pulications
 ======
+
 First/Co-first authored
 ------
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+
+1. **Wang, K.**, Ding, Y., & Han, S. C. (2023). Graph neural networks for text classification: a survey. Accepted at *Artificial Intelligence Review*. [Link](https://arxiv.org/pdf/2304.11534)
+2. **Wang, K.**., Han, C., & Poon, J. (2023, December). Re-Temp: Relation-Aware Temporal Representation Learning for Temporal Knowledge Graph Completion. In *Findings of the Association for Computational Linguistics: EMNLP 2023 (pp. 258-269)*. [Link](https://aclanthology.org/2023.findings-emnlp.20/)
+3. **Wang, K.**, Han, C. and Poon, J., 2022. InducT-GCN: Inductive Graph Convolutional Networks for Text Classification. In *26TH International Conference on Pattern Recognition*. [Link](https://ieeexplore.ieee.org/abstract/document/9956075/)
+4. **Wang, K.**, Han, C., Long, S. and Poon, J., 2022. ME-GCN: Multi-dimensional Edge-Embedded Graph Convolutional Networks for Semi-supervised Text Classification. In *ICLR 2022 Workshop on Deep Learning on Graphs for Natural Language Processing*. [Link](https://openreview.net/pdf?id=S8mgEw6SbG5)
+5. **Wang, K.**, Lu, D., Han, C., Long, S. and Poon, J., 2020. Detect All Abuse! Toward Universal Abusive Language Detection Models. In *Proceedings of the 28th International Conference on Computational Linguistics (pp. 6366-6376)*. [Link](https://aclanthology.org/2020.coling-main.560/)
 
 Co-authored
 -------
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
+1. Han, C., Yuan, Z., **Wang, K.**, Long, S. and Poon, J., 2022. Understanding Graph Convolutional Networks for Text Classification. In *Deep Learning for Graphs at AAAI Conference on Artificial Intelligence 2022*. [Link](https://arxiv.org/pdf/2203.16060)
+2. Weld, H., Huang, G., Lee, J., Zhang, T., **Wang, K.**, Guo, X., Long, S., Poon, J. and Han, C., 2021. CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection. In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 (pp. 2406–2416)*. [Link](https://aclanthology.org/2021.findings-acl.213/)
+3. Han, C., Long, S., Luo, S., **Wang, K.** and Poon, J., 2020. VICTR: Visual Information Captured Text Representation for Text-to-Vision Multimodal Tasks. In *Proceedings of the 28th International Conference on Computational Linguistics (pp. 3107-3117)*. [Link](https://aclanthology.org/2020.coling-main.277/)
 
 Teaching
 ======
@@ -35,3 +44,7 @@ Academic Service
 ======
 1. Reviewers of AAAI, EMNLP, COLING
 2. Leaderboard chair of [Workshop on Toxic Language Detection](https://tld2022.github.io/)
+
+CV
+======
+[cv.pdf](/files/Kunze_Wang_Resume.pdf)
