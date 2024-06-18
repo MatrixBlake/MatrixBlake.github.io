@@ -30,9 +30,10 @@ First/Co-first authored
 Co-authored
 -------
 
-1. Han, C., Yuan, Z., **Wang, K.**, Long, S. and Poon, J., 2022. Understanding Graph Convolutional Networks for Text Classification. In *Deep Learning for Graphs at AAAI Conference on Artificial Intelligence 2022*. [Link](https://arxiv.org/pdf/2203.16060)
-2. Weld, H., Huang, G., Lee, J., Zhang, T., **Wang, K.**, Guo, X., Long, S., Poon, J. and Han, C., 2021. CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection. In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 (pp. 2406–2416)*. [Link](https://aclanthology.org/2021.findings-acl.213/)
-3. Han, C., Long, S., Luo, S., **Wang, K.** and Poon, J., 2020. VICTR: Visual Information Captured Text Representation for Text-to-Vision Multimodal Tasks. In *Proceedings of the 28th International Conference on Computational Linguistics (pp. 3107-3117)*. [Link](https://aclanthology.org/2020.coling-main.277/)
+1. Yang, W., Xu, Y., Li, Y., **Wang, K.**, Huang, B. and Chen, L., 2024. Continual Learning for Temporal-Sensitive Question Answering. Accepted at *IJCNN 2024*.
+2. Han, C., Yuan, Z., **Wang, K.**, Long, S. and Poon, J., 2022. Understanding Graph Convolutional Networks for Text Classification. In *Deep Learning for Graphs at AAAI Conference on Artificial Intelligence 2022*. [Link](https://arxiv.org/pdf/2203.16060)
+3. Weld, H., Huang, G., Lee, J., Zhang, T., **Wang, K.**, Guo, X., Long, S., Poon, J. and Han, C., 2021. CONDA: a CONtextual Dual-Annotated dataset for in-game toxicity understanding and detection. In *Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021 (pp. 2406–2416)*. [Link](https://aclanthology.org/2021.findings-acl.213/)
+4. Han, C., Long, S., Luo, S., **Wang, K.** and Poon, J., 2020. VICTR: Visual Information Captured Text Representation for Text-to-Vision Multimodal Tasks. In *Proceedings of the 28th International Conference on Computational Linguistics (pp. 3107-3117)*. [Link](https://aclanthology.org/2020.coling-main.277/)
 
 Teaching
 ======
