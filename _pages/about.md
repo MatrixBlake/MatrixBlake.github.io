@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Kunze Wang, and I'm currently a machine learning engineer and applied scientist in [Rokt](https://www.rokt.com/), working on computational computing and recommendation system.
+My name is Kunze Wang, and I am currently a machine learning engineer and applied scientist at [Rokt](https://www.rokt.com/), where I work on computational computing and recommendation systems.
 
-Before joining Rokt, I finished my PhD degree at The University of Sydney, supervised by [Dr.Caren Han](https://drcarenhan.github.io/) and Dr.Josiah Poon. During my period in USYD, I visited The University of Hong Kong and The University of Western Australia and interned in Meituan Company.
+Before joining Rokt, I completed my PhD at The University of Sydney, supervised by [Dr.Caren Han](https://drcarenhan.github.io/) and Dr. Josiah Poon. During my time at USYD, I visited The University of Hong Kong and The University of Western Australia, and interned at Meituan Company.
 
-Before that, I studied Master of Information Technology and Information Technology Management at UYSD. I finished my bachelor's degree at Nanjing University and graduated with honours.
+Prior to that, I earned my Master of Information Technology and Information Technology Management at USYD. I completed my bachelor's degree at Nanjing University and graduated with honors.
 
-My research interests include graph neural networks for text classification, knowledge graphs, abusive language detection, and recently LLM like everyone in academia:)
+My research interests include graph neural networks for text classification, knowledge graphs, abusive language detection, and, like everyone else in academia recently, large language models :)
 
 Pulications
 ======
