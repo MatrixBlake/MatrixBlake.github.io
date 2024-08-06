@@ -15,6 +15,8 @@ Prior to that, I earned my Master of Information Technology and Information Tech
 
 My research interests include graph neural networks for text classification, knowledge graphs, abusive language detection, and, like everyone else recently, large language models :)
 
+Since I've graduated from USYD and may lose uni email account at any time, you may have to reach me through my personal email blakewkz[AT]gmail[DOT]com to reach me instead of my uni email.
+
 Pulications
 ======
 
